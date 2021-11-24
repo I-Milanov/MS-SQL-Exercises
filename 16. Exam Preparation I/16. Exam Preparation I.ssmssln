@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Section 1. DDL", "Section 1. DDL\Section 1. DDL.ssmssqlproj", "{13B84338-E264-4F70-A90E-E81690E188E0}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02. Insert", "02. Insert\02. Insert.ssmssqlproj", "{71E604BE-107B-4CAA-91FD-E0817FA6E365}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03. Update", "03. Update\03. Update.ssmssqlproj", "{5A4E946D-1612-4D68-BD04-6FCD2755AA70}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04. Delete", "04. Delete\04. Delete.ssmssqlproj", "{A3588323-4A41-4D97-A9CC-A2ED27DBBCB6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05. Mechanic Assignments", "05. Mechanic Assignments\05. Mechanic Assignments.ssmssqlproj", "{3165F6EA-6C98-43DE-92F7-5183854A6FB7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06. Current Clients", "06. Current Clients\06. Current Clients.ssmssqlproj", "{FD7E5FDD-33A3-487D-9A3F-CBADF09CDF4C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07. Mechanic Performance", "07. Mechanic Performance\07. Mechanic Performance.ssmssqlproj", "{ED92B09B-7729-4735-B0BA-519CAD27874B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08. Available Mechanics", "08. Available Mechanics\08. Available Mechanics.ssmssqlproj", "{A4299AF7-D0AD-41AB-8E16-3697C9AC6E9A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09. Past Expenses", "09. Past Expenses\09. Past Expenses.ssmssqlproj", "{4E1039AD-B601-412F-84F3-72B62CC45FDB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10. Missing Parts", "10. Missing Parts\10. Missing Parts.ssmssqlproj", "{FC3AFD30-4D1B-4898-8A33-2595EB6DC1AB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11. Place Order", "11. Place Order\11. Place Order.ssmssqlproj", "{F3181345-0FD8-4AC2-9F99-4422D11ED239}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12. Cost of Order", "12. Cost of Order\12. Cost of Order.ssmssqlproj", "{AF6F6760-41C5-40E3-ACB7-9D8C300134BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B84338-E264-4F70-A90E-E81690E188E0}.Default|Default.ActiveCfg = Default
+		{E7D5E542-965A-4450-803E-8D9B39637E84}.Default|Default.ActiveCfg = Default
+		{71E604BE-107B-4CAA-91FD-E0817FA6E365}.Default|Default.ActiveCfg = Default
+		{5A4E946D-1612-4D68-BD04-6FCD2755AA70}.Default|Default.ActiveCfg = Default
+		{A3588323-4A41-4D97-A9CC-A2ED27DBBCB6}.Default|Default.ActiveCfg = Default
+		{3165F6EA-6C98-43DE-92F7-5183854A6FB7}.Default|Default.ActiveCfg = Default
+		{FD7E5FDD-33A3-487D-9A3F-CBADF09CDF4C}.Default|Default.ActiveCfg = Default
+		{ED92B09B-7729-4735-B0BA-519CAD27874B}.Default|Default.ActiveCfg = Default
+		{A4299AF7-D0AD-41AB-8E16-3697C9AC6E9A}.Default|Default.ActiveCfg = Default
+		{4E1039AD-B601-412F-84F3-72B62CC45FDB}.Default|Default.ActiveCfg = Default
+		{FC3AFD30-4D1B-4898-8A33-2595EB6DC1AB}.Default|Default.ActiveCfg = Default
+		{F3181345-0FD8-4AC2-9F99-4422D11ED239}.Default|Default.ActiveCfg = Default
+		{AF6F6760-41C5-40E3-ACB7-9D8C300134BC}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6426985F-8C45-4A0A-9A7E-BC4ED91A3118}
+	EndGlobalSection
+EndGlobal

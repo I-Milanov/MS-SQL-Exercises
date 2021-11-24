@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01. Create Table Logs", "01. Create Table Logs\01. Create Table Logs.ssmssqlproj", "{EEC1131B-716D-40FD-985F-ED2B672F09E5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02. Employees with Salary Above Number", "02. Employees with Salary Above Number\02. Employees with Salary Above Number.ssmssqlproj", "{8D1C9F22-4B42-46D8-AB24-8C18C7AAD6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC1131B-716D-40FD-985F-ED2B672F09E5}.Default|Default.ActiveCfg = Default
+		{DF04683E-8AD7-4B90-A0E1-CDCBAA09290D}.Default|Default.ActiveCfg = Default
+		{8D1C9F22-4B42-46D8-AB24-8C18C7AAD6BE}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C16606-C23F-4876-BD9D-50CE3FD5775A}
+	EndGlobalSection
+EndGlobal

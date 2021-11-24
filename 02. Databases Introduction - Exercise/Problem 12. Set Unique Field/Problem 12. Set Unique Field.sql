@@ -1,0 +1,5 @@
+ALTER TABLE Users
+ DROP CONSTRAINt PK_IdUsername
+
+ALTER TABLE Users
+ADD CONSTRAINT CH_UsernameIsAtLeast3Symbols CHECK (LEN(Username)>3)

@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 4. Insert Records in Both Tables", "Problem 4. Insert Records in Both Tables\Problem 4. Insert Records in Both Tables.ssmssqlproj", "{3B53D5A7-6B28-428D-96CB-D8D8E52C0478}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 1. Create Database", "Problem 1. Create Database\Problem 1. Create Database.ssmssqlproj", "{0C3FA655-900F-46F8-A728-392F5FB31B03}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 2. Create Tables", "Problem 2. Create Tables\Problem 2. Create Tables.ssmssqlproj", "{D9B8131E-AE56-4DDB-978F-F90BB5C5C1C9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 3. Alter Minions Table", "Problem 3. Alter Minions Table\Problem 3. Alter Minions Table.ssmssqlproj", "{81C6B613-523A-4CDF-9675-262C3F4F6E5C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 5. Truncate Table Minions", "Problem 5. Truncate Table Minions\Problem 5. Truncate Table Minions.ssmssqlproj", "{BC93C200-12E5-4C96-9342-BEAEB69C8BF8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 6. Drop All Tables", "Problem 6. Drop All Tables\Problem 6. Drop All Tables.ssmssqlproj", "{FF8EE164-EAAF-439A-B24C-DB4D02EA8E3E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 7. Create Table People", "Problem 7. Create Table People\Problem 7. Create Table People.ssmssqlproj", "{164088AA-72CE-4116-89B3-13E5AABE2E61}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 8. Create Table Users", "Problem 8. Create Table Users\Problem 8. Create Table Users.ssmssqlproj", "{F9494522-72A0-4D48-8F32-9A12B4DD6120}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 9. Change Primary Key", "Problem 9. Change Primary Key\Problem 9. Change Primary Key.ssmssqlproj", "{013B1E33-9F98-4261-8D1E-20E8B5BB95E5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 10. Add Check Constraint", "Problem 10. Add Check Constraint\Problem 10. Add Check Constraint.ssmssqlproj", "{94A0576C-7DB4-42DC-A69A-0A3EDAECFFF8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 11. Set Default Value of a Field", "Problem 11. Set Default Value of a Field\Problem 11. Set Default Value of a Field.ssmssqlproj", "{B613BA82-54D7-4DFD-90FC-742B1619EB47}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 12. Set Unique Field", "Problem 12. Set Unique Field\Problem 12. Set Unique Field.ssmssqlproj", "{10523459-0F4E-4C43-8AAD-D0A9C30D5C11}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 13. Movies Database", "Problem 13. Movies Database\Problem 13. Movies Database.ssmssqlproj", "{55E23E16-A8D4-4E22-83AB-BA25D0F1DBDE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 14. Car Rental Database", "Problem 14. Car Rental Database\Problem 14. Car Rental Database.ssmssqlproj", "{FAD26221-8DEB-487A-874B-3C296111ABA6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 15. Hotel Database", "Problem 15. Hotel Database\Problem 15. Hotel Database.ssmssqlproj", "{0EF39B36-CDC6-412D-ACC2-39416B415DB3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 16. Create SoftUni Database", "Problem 16. Create SoftUni Database\Problem 16. Create SoftUni Database.ssmssqlproj", "{BCA04F93-477A-43D4-B80E-F5284135F395}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 17. Backup Database", "Problem 17. Backup Database\Problem 17. Backup Database.ssmssqlproj", "{F9E52EFB-F412-4C31-9FE5-73E64A126042}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 18. Basic Insert", "Problem 18. Basic Insert\Problem 18. Basic Insert.ssmssqlproj", "{C4F7F4E8-8E47-458C-B6DE-569956CCF933}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 19. Basic Select All Fields", "Problem 19. Basic Select All Fields\Problem 19. Basic Select All Fields.ssmssqlproj", "{01945475-BDA9-4E43-A3F8-09D897A73156}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 20. Basic Select All Fields", "Problem 20. Basic Select All Fields\Problem 20. Basic Select All Fields.ssmssqlproj", "{AC60A2D7-1CD9-4CE6-8B88-B5E6AC98EE08}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 21. Basic Select Some Fields", "Problem 21. Basic Select Some Fields\Problem 21. Basic Select Some Fields.ssmssqlproj", "{927D9C77-843A-4AAD-AA70-826886D73F5D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 22. Increase Employees Salary", "Problem 22. Increase Employees Salary\Problem 22. Increase Employees Salary.ssmssqlproj", "{D02482F7-FC8C-4AF3-9133-8EB05B6CDDB5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 23. Decrease Tax Rate", "Problem 23. Decrease Tax Rate\Problem 23. Decrease Tax Rate.ssmssqlproj", "{5098D3D5-EA0C-4CED-8BEF-A442D0316698}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 24. Delete All Records", "Problem 24. Delete All Records\Problem 24. Delete All Records.ssmssqlproj", "{A26CF596-2E54-42E6-92BC-E9148E4B3C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B53D5A7-6B28-428D-96CB-D8D8E52C0478}.Default|Default.ActiveCfg = Default
+		{0C3FA655-900F-46F8-A728-392F5FB31B03}.Default|Default.ActiveCfg = Default
+		{D9B8131E-AE56-4DDB-978F-F90BB5C5C1C9}.Default|Default.ActiveCfg = Default
+		{81C6B613-523A-4CDF-9675-262C3F4F6E5C}.Default|Default.ActiveCfg = Default
+		{BC93C200-12E5-4C96-9342-BEAEB69C8BF8}.Default|Default.ActiveCfg = Default
+		{FF8EE164-EAAF-439A-B24C-DB4D02EA8E3E}.Default|Default.ActiveCfg = Default
+		{164088AA-72CE-4116-89B3-13E5AABE2E61}.Default|Default.ActiveCfg = Default
+		{F9494522-72A0-4D48-8F32-9A12B4DD6120}.Default|Default.ActiveCfg = Default
+		{013B1E33-9F98-4261-8D1E-20E8B5BB95E5}.Default|Default.ActiveCfg = Default
+		{94A0576C-7DB4-42DC-A69A-0A3EDAECFFF8}.Default|Default.ActiveCfg = Default
+		{B613BA82-54D7-4DFD-90FC-742B1619EB47}.Default|Default.ActiveCfg = Default
+		{10523459-0F4E-4C43-8AAD-D0A9C30D5C11}.Default|Default.ActiveCfg = Default
+		{55E23E16-A8D4-4E22-83AB-BA25D0F1DBDE}.Default|Default.ActiveCfg = Default
+		{FAD26221-8DEB-487A-874B-3C296111ABA6}.Default|Default.ActiveCfg = Default
+		{0EF39B36-CDC6-412D-ACC2-39416B415DB3}.Default|Default.ActiveCfg = Default
+		{BCA04F93-477A-43D4-B80E-F5284135F395}.Default|Default.ActiveCfg = Default
+		{F9E52EFB-F412-4C31-9FE5-73E64A126042}.Default|Default.ActiveCfg = Default
+		{C4F7F4E8-8E47-458C-B6DE-569956CCF933}.Default|Default.ActiveCfg = Default
+		{01945475-BDA9-4E43-A3F8-09D897A73156}.Default|Default.ActiveCfg = Default
+		{AC60A2D7-1CD9-4CE6-8B88-B5E6AC98EE08}.Default|Default.ActiveCfg = Default
+		{927D9C77-843A-4AAD-AA70-826886D73F5D}.Default|Default.ActiveCfg = Default
+		{D02482F7-FC8C-4AF3-9133-8EB05B6CDDB5}.Default|Default.ActiveCfg = Default
+		{5098D3D5-EA0C-4CED-8BEF-A442D0316698}.Default|Default.ActiveCfg = Default
+		{A26CF596-2E54-42E6-92BC-E9148E4B3C00}.Default|Default.ActiveCfg = Default
+		{587F7A73-0DB4-4865-B3F2-EA580DB98E37}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD7E056-BCD7-441A-8CE3-FA523C0994BB}
+	EndGlobalSection
+EndGlobal

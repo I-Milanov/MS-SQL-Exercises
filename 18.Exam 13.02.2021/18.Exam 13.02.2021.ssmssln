@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02. Insert", "02. Insert\02. Insert.ssmssqlproj", "{77957975-D9A8-4F4A-A2CE-1BC4613F3100}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03. Update", "03. Update\03. Update.ssmssqlproj", "{1BC22E8D-BFD3-4F84-85ED-6C19A9C79BDC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04. Delete", "04. Delete\04. Delete.ssmssqlproj", "{A38B5EB5-9143-476A-BB40-D5151F0CB039}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05. Commits", "05. Commits\05. Commits.ssmssqlproj", "{9CBC2F07-34B3-46E6-8114-4DFBA68446E6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06. Front-end", "06. Front-end\06. Front-end.ssmssqlproj", "{84687054-5F18-431B-BF13-EB313805AA77}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07. Issue Assignment", "07. Issue Assignment\07. Issue Assignment.ssmssqlproj", "{1243D2CF-F03B-4187-999A-766CAC003FA7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08. Single Files", "08. Single Files\08. Single Files.ssmssqlproj", "{B00DFA71-4370-40D9-BE59-017677F79291}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09. Commits in Repositories", "09. Commits in Repositories\09. Commits in Repositories.ssmssqlproj", "{CA64C3ED-524E-48EA-A5FC-4C69E6DB660A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10. Average Size", "10. Average Size\10. Average Size.ssmssqlproj", "{B860F08B-AEEF-404C-B79F-68A4617087F1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11. All User Commits", "11. All User Commits\11. All User Commits.ssmssqlproj", "{98DC87ED-5448-45FB-B09F-E5F205D45D85}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12. Search for Files", "12. Search for Files\12. Search for Files.ssmssqlproj", "{F7A803EB-3298-47D9-BEBA-51AE284C588A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01. DDL", "01. DDL\01. DDL.ssmssqlproj", "{C63E7D23-E9DA-40DF-B6BE-A1D6E540167E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D183CD-441A-4382-A759-D6DCBF12D668}.Default|Default.ActiveCfg = Default
+		{77957975-D9A8-4F4A-A2CE-1BC4613F3100}.Default|Default.ActiveCfg = Default
+		{1BC22E8D-BFD3-4F84-85ED-6C19A9C79BDC}.Default|Default.ActiveCfg = Default
+		{A38B5EB5-9143-476A-BB40-D5151F0CB039}.Default|Default.ActiveCfg = Default
+		{9CBC2F07-34B3-46E6-8114-4DFBA68446E6}.Default|Default.ActiveCfg = Default
+		{84687054-5F18-431B-BF13-EB313805AA77}.Default|Default.ActiveCfg = Default
+		{1243D2CF-F03B-4187-999A-766CAC003FA7}.Default|Default.ActiveCfg = Default
+		{B00DFA71-4370-40D9-BE59-017677F79291}.Default|Default.ActiveCfg = Default
+		{CA64C3ED-524E-48EA-A5FC-4C69E6DB660A}.Default|Default.ActiveCfg = Default
+		{B860F08B-AEEF-404C-B79F-68A4617087F1}.Default|Default.ActiveCfg = Default
+		{98DC87ED-5448-45FB-B09F-E5F205D45D85}.Default|Default.ActiveCfg = Default
+		{F7A803EB-3298-47D9-BEBA-51AE284C588A}.Default|Default.ActiveCfg = Default
+		{C63E7D23-E9DA-40DF-B6BE-A1D6E540167E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D472D3F3-A3DC-49F1-9131-CD31648AB4D9}
+	EndGlobalSection
+EndGlobal

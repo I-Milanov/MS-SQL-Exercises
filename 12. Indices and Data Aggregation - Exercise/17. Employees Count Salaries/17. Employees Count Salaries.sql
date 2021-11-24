@@ -1,0 +1,4 @@
+USE SoftUni
+SELECT COUNT(*)
+FROM Employees
+WHERE ManagerID IS NULL
